@@ -1,4 +1,4 @@
-Конвертация данных из CronosPro в PostgreSQL (Виток-C)
+Конвертация данных из CronosPro в PostgreSQL
 =
 _Термины:_
 
